@@ -9,4 +9,11 @@ h2{
     background-color: green;
 }
 
+div{
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 50px;
+}
+
 
